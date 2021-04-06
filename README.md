@@ -1,5 +1,6 @@
 # jquery-mini-app
 To-Do App<br>
+<br>
 PURPOSE  => Create a to-do list for your daily tasks. Stay on track with your goals using a to do list. 
 
 How TO => 1. Easily add tasks clicking the "add" button.
