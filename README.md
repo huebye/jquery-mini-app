@@ -1,4 +1,4 @@
-# jquery-mini-app
+# jquery-mini-todo-app
 To-Do App<br>
 <br>
 PURPOSE  => Create a to-do list for your daily tasks. Stay on track with your goals and achieve greatness. 
